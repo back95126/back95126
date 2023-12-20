@@ -14,10 +14,7 @@
 
 
 ### 🔧 Tool
-- Version Control(Git/it-Flow)
-- Test Driven Developer
-- Open Source Projects
-- Travis-CI
+
 
 ## 💡 Projects
 
